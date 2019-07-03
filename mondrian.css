@@ -1,0 +1,124 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    /* #f6f6f6 */
+    background-color: #f6f6f6;
+}
+
+#the-mondrian-canvas {
+    height: 400px;
+    width: 400px;
+    background-color: #fff4db;
+    margin: auto;
+    margin-top: 50px;
+    box-shadow: 10px 10px 0px #8d8d8d;
+}
+
+#toprow {
+    height: 290px;
+    /* debugging */
+    /* background-color: lightcoral; */
+}
+
+#top-row-square-right {
+    width: 290px;
+    height: 290px;
+}
+
+.coral-background {
+    background-color: lightcoral;
+}
+
+#top-row-left-right-divider {
+    height: 290px;
+    width: 10px;
+}
+
+.black-background {
+    background-color: black;
+}
+
+.aquamarine-bloackground {
+    background-color: aquamarine;
+}
+
+.medium-gray-background {
+    background-color: #8d8d8d;
+}
+
+.pink-background {
+    background-color: pink;
+}
+
+.orange-background {
+    background-color: orange;
+}
+
+.right {
+    float: right;
+}
+
+.medium-box {
+    width: 100px;
+    height: 140px;
+}
+
+#top-row-column-left-divider {
+    height: 10px;
+    width: 100px;
+}
+
+#top-bottom-row-divider {
+    height: 10px;
+    width: 100%;
+}
+
+#bottom-row-right-section {
+    width: 290px;
+    height: 100px;
+    /* debugging */
+    /* background-color: pink; */
+}
+
+#bottom-row-left-right-divider {
+    height: 100px;
+    width: 10px;
+}
+
+#bottom-row-right-subSection {
+    height: 100px;
+    width: 40px;
+}
+
+#bottom-row-right-subSection-s1 {
+    height: 40px;
+    width: 40px;
+}
+
+#bottom-row-right-subsection-divider {
+    height: 10px;
+    width: 40px;
+}
+
+#bottom-row-right-subSection-border {
+    height: 100px;
+    width: 10px;
+}
+
+#bottom-row-right-subsection-s2 {
+    height: 50px;
+    width: 40px;
+}
+
+#bottom-row-left-square {
+    height: 100px;
+    width: 100px;
+}
+
+header {
+    margin: auto;
+    width: fit-content;
+}
+
+
